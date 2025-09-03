@@ -1,0 +1,5 @@
+jupyterlite-core
+jupyterlab
+jupyterlab-deck
+notebook
+jupyterlite-pyodide-kernel
